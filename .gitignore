@@ -49,6 +49,9 @@ xcuserdata
 *.aps
 ipch/
 
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
 # Eclipse
 .metadata
 local.properties
